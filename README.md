@@ -17,10 +17,6 @@ The data extraction process was designed to handle multiple pages of results, en
 
 After analyzing the dataset, one of the most interesting insights was the **limited usage of GitHub’s wiki and project features**. Despite these features being available for most repositories, they were often disabled or unused. This may suggest a preference for external documentation tools or a lack of awareness about the benefits of these features on GitHub.
 
-## Actionable Recommendation
-
-For developers, **enabling GitHub’s project and wiki features** could increase the visibility and usability of repositories. Using these features allows contributors and followers to understand project objectives better and collaborate more efficiently. Consider leveraging GitHub wikis for documentation and project boards to manage tasks, especially for open-source projects or repositories with significant follower counts.
-
 ## Repository Structure
 
 - `users.csv`: Contains information about each user, including:
